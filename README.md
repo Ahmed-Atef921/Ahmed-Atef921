@@ -9,9 +9,7 @@
 <a href="https://wa.me/201092026268">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-<a href="https://wa.me/201092026268">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+
 
 <a href="https://visitorbadge.io/status?path=Ahmed-Atef921">
 <img src="https://api.visitorbadge.io/api/visitors?path=Ahmed-Atef921&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none"/>
