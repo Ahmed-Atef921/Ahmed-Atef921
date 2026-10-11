@@ -18,7 +18,7 @@ Glad to see you here! I'm *Ahmed Atef, a **Machine Learning Engineer* passionate
 
 I'm currently focused on developing my skills in *Machine Learning and Computer Vision*, working with Python and popular AI libraries to build and deploy machine learning models.
 
-My goal is to become a professional *Machine Learning Engineer* and build intelligent AI-powered systems that solve real-world problems.
+My goal is to become a professional *Computer Vision Engineer* and build intelligent AI-powered systems that solve real-world problems.
 
 ---
 
