@@ -14,7 +14,7 @@
 </a>
 </p>
 
-Glad to see you here! I'm *Ahmed Atef, a **Machine Learning Engineer* passionate about *Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision*. I enjoy learning new technologies, building intelligent systems, and turning data into useful real-world solutions.
+Glad to see you here! I'm Ahmed Atef, a *Machine Learning Engineer* passionate about *Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision*. I enjoy learning new technologies, building intelligent systems, and turning data into useful real-world solutions.
 
 I'm currently focused on developing my skills in *Machine Learning and Computer Vision*, working with Python and popular AI libraries to build and deploy machine learning models.
 
